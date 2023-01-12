@@ -1,3 +1,7 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://raw.githubusercontent.com/EresPvP/EresPvP/main/imagens/Sherlock.png" /></a></p>
+<h1><center><b>Sherlock Bot </b></center></h1> <br>
+
+
 <h1><b>Aprenda a Configurar o Bot</b></h1>
 
 <div class="bot">
