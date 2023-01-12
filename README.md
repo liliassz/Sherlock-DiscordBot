@@ -1,3 +1,13 @@
+<h1><b>Aprenda a Configurar o Bot</b></h1>
+
+<div class="bot">
+    <ul>    
+        <li> 
+        Em <b>Config.json</b> Defina o <b>Prefix</b> & <b>Token</b> do seu Bot. Alguns Exemplos de Prefix "!" ou "/". Lembrando que voce tambem pode mudar a cor de todos Embed por lá, Obs " As cores precisam ser em formato <b>hexadecimal</b>" [...]
+        </li>
+    </ul><br>
+</div>
+
 <h1><b>Como Hospedar o Bot </b></h1>
 
 <div class="cdob">
@@ -13,18 +23,8 @@
     <ul>
         <li>Google Cloud</li>
         <li>Replit</li>
-    </ul>
+    </ul><br>
 
-</div>
-
-<h1><b>Aprenda a Configurar o Bot</b></h1>
-
-<div class="bot">
-    <ul>    
-        <li> 
-        Em <b>Config.json</b> Defina o <b>Prefix</b> & <b>Token</b> do seu Bot. Alguns Exemplos de Prefix "!" ou "/". Lembrando que voce tambem pode mudar a cor de todos Embed por lá, Obs " As cores precisam ser em formato <b>hexadecimal</b>" [...]
-        </li>
-    </ul>
 </div>
 
 <h1><b>Comandos do Bot </b></h1>
@@ -93,7 +93,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-souza-144598214/)
 [![LDiscord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.gg/jwxEWURKfa)
- 
+
 
 
 
