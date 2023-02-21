@@ -9,7 +9,7 @@
         <li> 
         Em <b>Config.json</b> Defina o <b>Prefix</b> & <b>Token</b> do seu Bot. Alguns Exemplos de Prefix "!" ou "/". Lembrando que voce tambem pode mudar a cor de todos Embed por lá, Obs " As cores precisam ser em formato <b>hexadecimal</b>" [...]
         </li>
-    </ul><br>
+    </ul><br>  
 </div>
 
 <h1><b>Como Hospedar o Bot </b></h1>
